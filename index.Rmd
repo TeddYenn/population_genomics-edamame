@@ -12,7 +12,7 @@ biblio-style: apalike
 link-citations: true
 links-as-notes: true
 colorlinks: true
-github-repo: TeddYenn/GWAS_RICE
+github-repo: TeddYenn/population_genomics-edamame
 cover-image: 
 url: https://github.com/TeddYenn/population_genomics-edamame
 description: "A guide to selection footprints analysis for enhancing productivity in Taiwanese edamame through core collection framework"
@@ -41,21 +41,17 @@ knitr::write_bib(c(
   gtag('config', 'G-LKV6J2QECN');
 </script>
 ```
-#### 📢 **Key message:** {.unnumbered}
+### 📢 **Key message:** {.unnumbered}
 
-> Our core collection-based pipeline unveils distinctive selection
-> patterns between vegetable and grain soybeans, identifying selection
-> footprints and favorable alleles in vegetable soybeans, and guiding
-> genomic insights for enhanced breeding strategies.
+> #### Our core collection-based pipeline unveils distinctive selection patterns between vegetable and grain soybeans, identifying selection footprints and favorable alleles in vegetable soybeans, and guiding genomic insights for enhanced breeding strategies. {.unnumbered}
 
-#### 📍 **Keywords:** {.unnumbered}
+### 📍 **Keywords:** {.unnumbered}
 
-> vegetable soybean, population structure, diversity and
-> differentiation, genomic scans, core collection, selection footprint.
+> #### Vegetable soybean, population structure, diversity and differentiation, genomic scans, core collection, selection footprint. {.unnumbered}
 
 ------------------------------------------------------------------------
 
-#### **⚠️ NOTE: Some data in this book is unpublished; therefore, certain results may be uncompleted, simulated, and some plots may appear blurred.** {.unnumbered}
+#### **⚠️NOTE: Some data in this book is unpublished; therefore, certain results may be uncompleted, simulated, and some plots may appear blurred.** {.unnumbered}
 
 This work by Yen-Hsiang (Teddy) Huang is licensed under a [GNU General
 Public License](https://www.gnu.org/licenses/gpl-3.0.html.en).

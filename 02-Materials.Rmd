@@ -17,7 +17,7 @@ editor_options:
   gtag('config', 'G-LKV6J2QECN');
 </script>
 ```
-## **Germplasm resources and phenotypic data collection** {.unnumbered}
+## **Germplasm resources** {.unnumbered}
 
 A total of 2,618 Taiwanese soybean accessions from the NPGRC at the
 Taiwan Agricultural Research Institute were classified into 2,511 grain
@@ -45,7 +45,7 @@ Team 2023) with package *mice* (Van Buuren and Groothuis-Oudshoorn 2011)
 for multiple imputation on the grain soybean and vegetable soybean
 phenotypic data.
 
-## **Genotyping and quality control protocol** {.unnumbered}
+## **Genotyping** {.unnumbered}
 
 DNA extraction and purification from 2,618 soybean accessions utilized
 the DNeasy 96 Plant Kit (QIAGEN) system, ensuring an A~260~/A~280~ ratio
@@ -76,7 +76,7 @@ population structure.
 > construction of core collection and subsequent downstream analysis in
 > the present study
 
-## **Core collections construction and assessment** {.unnumbered}
+## **Core collections** {.unnumbered}
 
 To establish a representative and manageable subset of accessions that
 capture most of the genetic diversity for optimal utilization of
@@ -109,7 +109,7 @@ evaluated according to Huang et al. (2021). For detailed elucidation of
 the concept and mathematical formulations pertinent to the methods
 employed, please consult ~~Online Resource 1~~.
 
-## **Phylogenetic and population structure analysis** {.unnumbered}
+## **Population structure analysis** {.unnumbered}
 
 The population structure and genetic diversity of soybean accessions
 were assessed using the 78k SNP dataset, filtered with MAF \< 0.05. An
@@ -128,7 +128,7 @@ population structure, DAPC was performed on datasets containing 78k SNPs
 and compared with those obtained from the 147k and 13k SNP datasets to
 enhance the robustness of the findings.
 
-## **Genetic diversity and differentiation analysis** {.unnumbered}
+## **Genetic diversity analysis** {.unnumbered}
 
 A large-scale genome dataset comprising 78k SNPs was utilized to assess
 genetic diversity within and among soybean types. Various indicators
@@ -184,7 +184,7 @@ genotype-phenotype relationship and ensuring the reliability of our
 findings. Detailed information on the methodological concept and
 formulas can be found in ~~Online Resource 1~~.
 
-## **Gene annotation and quantitative trait loci (QTLs) prediction** {.unnumbered}
+## **Gene annotation** {.unnumbered}
 
 To elucidated gene functions within selection regions and prioritize
 candidate genes for functional validation, we obtained functional

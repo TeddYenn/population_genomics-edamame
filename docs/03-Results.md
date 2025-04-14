@@ -39,7 +39,7 @@ confirm that the core subset maintains the underlying data structure and
 variations, validating its ability to preserve the diversity present in
 the original population (**Fig. 2B-C** and **Supplementary Fig. 2**).
 
-#### **⚠️ NOTE: Some data in this book is unpublished; therefore, certain results may be uncompleted, simulated, and some plots may appear blurred.** {.unnumbered}
+#### **⚠️NOTE: Some data in this book is unpublished; therefore, certain results may be uncompleted, simulated, and some plots may appear blurred.** {.unnumbered}
 
 **[[FIGURE 2; inaccessible]{.smallcaps}]**
 
@@ -117,7 +117,7 @@ selection footprints.
 
 ------------------------------------------------------------------------
 
-## **Insights from population structure and phylogenetics** {.unnumbered}
+## **Population structure** {.unnumbered}
 
 Population structure was conducted on the core accessions using
 genotypic data obtained from the Axiom^®^ SoyaSNP180K chip array,
@@ -212,7 +212,7 @@ SNP dataset.
 
 ------------------------------------------------------------------------
 
-## **Insights from genetic diversity and differentiation analysis** {.unnumbered}
+## **Genetic diversity** {.unnumbered}
 
 Assessment of genetic diversity within the five groups of Taiwanese
 soybean core accessions, revealed Group I to exhibit the lowest genetic
@@ -278,7 +278,7 @@ resulting from their agricultural utilization.
 
 ------------------------------------------------------------------------
 
-## **Selection signatures of vegetable soybean** {.unnumbered}
+## **Selection signatures** {.unnumbered}
 
 To investigate the genetic foundation driving the selection of vegetable
 soybeans within the breeding program, we utilized the *pcadapt*
