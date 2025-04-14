@@ -1,0 +1,15 @@
+book_filename: "population_genomics-edamame"
+output_dir: "docs"
+
+delete_merged_file: true
+new_session: yes
+before_chapter_script: "_common.R"
+
+rmd_files:
+    - "index.Rmd"
+    - "01-Introduction.Rmd"
+    - "02-Materials.Rmd"
+    - "03-Results.Rmd"
+    - "04-Discussion.Rmd"
+    - "05-References.Rmd"
+
